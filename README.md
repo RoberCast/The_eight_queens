@@ -1,6 +1,6 @@
-## The eight queens
+# The eight queens
 
-# Introduction
+## Introduction
 The eight queens problem is a classic problem used in the study of algorithms to illustrate the backtracking scheme. The classic problem consists of placing eight queens on an 8x8 chessboard so that they cannot attack each other, taking into account the queen's movement according to the rules of chess. In this implementation, it is solved in its general form; that is, N queens are placed on an NxN chessboard. The program output should display a numbered list of solutions, indicated by the board coordinates. A limit of n = 13 has been set since too many solutions are generated beyond n > 13. The syntax is as follows:
 
 * java -jar queens [-t] [-g] [-h] n [output_file]
@@ -21,10 +21,10 @@ Possible options:
 
 Considerations: The board size must be a positive integer greater than zero and less than or equal to 13; otherwise, the program will display an error. Additionally, the output file must have a .txt extension, or the application will display an error.
 
-# Demo
+## Demo
 
 
-# License
+## License
 This project is licensed under the GNU General Public License v3 (GPLv3).
 
 © 2025 Roberto Castillejo Embid.
