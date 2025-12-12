@@ -1,0 +1,10 @@
+1: a1 b3 c5 d2 e4 
+2: a1 b4 c2 d5 e3 
+3: a2 b4 c1 d3 e5 
+4: a2 b5 c3 d1 e4 
+5: a3 b1 c4 d2 e5 
+6: a3 b5 c2 d4 e1 
+7: a4 b1 c3 d5 e2 
+8: a4 b2 c5 d3 e1 
+9: a5 b2 c4 d1 e3 
+10: a5 b3 c1 d4 e2 

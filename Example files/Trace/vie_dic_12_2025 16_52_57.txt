@@ -1,0 +1,18 @@
+Rejected position: a1 b4 c2 d1 
+Rejected position: a1 b4 c2 d2 
+Rejected position: a1 b4 c2 d3 
+Rejected position: a1 b4 c2 d4 
+Rejected position: a2 b4 c1 d1 
+Rejected position: a2 b4 c1 d2 
+Position accepted: |============================================> a2 b4 c1 d3 
+Rejected position: a2 b4 c1 d3 
+Rejected position: a2 b4 c1 d4 
+Rejected position: a3 b1 c4 d1 
+Position accepted: |============================================> a3 b1 c4 d2 
+Rejected position: a3 b1 c4 d2 
+Rejected position: a3 b1 c4 d3 
+Rejected position: a3 b1 c4 d4 
+Rejected position: a4 b1 c3 d1 
+Rejected position: a4 b1 c3 d2 
+Rejected position: a4 b1 c3 d3 
+Rejected position: a4 b1 c3 d4 

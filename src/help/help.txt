@@ -1,0 +1,53 @@
+
+
+
+/*******************************************************************************************************************
+*
+*                                              THE EIGHT QUEENS
+*                                                Version: 1.0
+*
+*******************************************************************************************************************/
+
+CORRECT SYNTAX
+==============
+
+    queens [-t] [-g] [-h] n [output_file]
+    
+    Accepted options:
+        queens -h                     Displays this help.
+        queens n                      Displays the solution via standard output.
+        queens -t n                   Displays the solution via standard output and generates the trace file.
+        queens n output_file          Generate a file with the solution to the problem.
+        queens -g n output_file       Generate a file with the graphical solution to the problem.
+        queens -t n output_file       Generate one file with the solution to the problem and another with the trace.
+        queens -t -g n output_file    Generate a file with the graphical solution to the problem and another with the trace.
+
+
+PARAMETERS
+==========
+
+    -t                  Outline each step of the eight queens problem in its general form.
+    -g                  Graphical mode. Uses a visual format that represents the board.
+    -h                  Show this help.
+    n                   Board size and number of queens.
+    output_file         Output file name.
+    
+
+CHARACTERISTICS OF THE BOARD SIZE AND NUMBER OF QUEENS
+======================================================
+
+    The board size and the number of queens must be a positive integer greater than 0 and less than 14. Negative 
+    numbers, 0, or values ​​equal to or greater than 14 are not allowed. If any value outside this range is entered, the 
+    application will report an error.
+    
+    
+OUTPUT FILE CHARACTERISTICS
+===========================
+
+    The output file must have the .txt extension or the application will report an error.
+     	
+	
+AUTHOR
+===============
+
+    Roberto Castillejo Embid.      

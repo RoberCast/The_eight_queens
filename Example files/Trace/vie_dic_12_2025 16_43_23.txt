@@ -1,0 +1,70 @@
+Rejected position: a1 b3 c5 d2 e1 
+Rejected position: a1 b3 c5 d2 e2 
+Rejected position: a1 b3 c5 d2 e3 
+Position accepted: |============================================> a1 b3 c5 d2 e4 
+Rejected position: a1 b3 c5 d2 e4 
+Rejected position: a1 b3 c5 d2 e5 
+Rejected position: a1 b4 c2 d5 e1 
+Rejected position: a1 b4 c2 d5 e2 
+Position accepted: |============================================> a1 b4 c2 d5 e3 
+Rejected position: a1 b4 c2 d5 e3 
+Rejected position: a1 b4 c2 d5 e4 
+Rejected position: a1 b4 c2 d5 e5 
+Rejected position: a2 b4 c1 d3 e1 
+Rejected position: a2 b4 c1 d3 e2 
+Rejected position: a2 b4 c1 d3 e3 
+Rejected position: a2 b4 c1 d3 e4 
+Position accepted: |============================================> a2 b4 c1 d3 e5 
+Rejected position: a2 b4 c1 d3 e5 
+Rejected position: a2 b5 c1 d4 e1 
+Rejected position: a2 b5 c1 d4 e2 
+Rejected position: a2 b5 c1 d4 e3 
+Rejected position: a2 b5 c1 d4 e4 
+Rejected position: a2 b5 c1 d4 e5 
+Rejected position: a2 b5 c3 d1 e1 
+Rejected position: a2 b5 c3 d1 e2 
+Rejected position: a2 b5 c3 d1 e3 
+Position accepted: |============================================> a2 b5 c3 d1 e4 
+Rejected position: a2 b5 c3 d1 e4 
+Rejected position: a2 b5 c3 d1 e5 
+Rejected position: a3 b1 c4 d2 e1 
+Rejected position: a3 b1 c4 d2 e2 
+Rejected position: a3 b1 c4 d2 e3 
+Rejected position: a3 b1 c4 d2 e4 
+Position accepted: |============================================> a3 b1 c4 d2 e5 
+Rejected position: a3 b1 c4 d2 e5 
+Position accepted: |============================================> a3 b5 c2 d4 e1 
+Rejected position: a3 b5 c2 d4 e1 
+Rejected position: a3 b5 c2 d4 e2 
+Rejected position: a3 b5 c2 d4 e3 
+Rejected position: a3 b5 c2 d4 e4 
+Rejected position: a3 b5 c2 d4 e5 
+Rejected position: a4 b1 c3 d5 e1 
+Position accepted: |============================================> a4 b1 c3 d5 e2 
+Rejected position: a4 b1 c3 d5 e2 
+Rejected position: a4 b1 c3 d5 e3 
+Rejected position: a4 b1 c3 d5 e4 
+Rejected position: a4 b1 c3 d5 e5 
+Rejected position: a4 b1 c5 d2 e1 
+Rejected position: a4 b1 c5 d2 e2 
+Rejected position: a4 b1 c5 d2 e3 
+Rejected position: a4 b1 c5 d2 e4 
+Rejected position: a4 b1 c5 d2 e5 
+Position accepted: |============================================> a4 b2 c5 d3 e1 
+Rejected position: a4 b2 c5 d3 e1 
+Rejected position: a4 b2 c5 d3 e2 
+Rejected position: a4 b2 c5 d3 e3 
+Rejected position: a4 b2 c5 d3 e4 
+Rejected position: a4 b2 c5 d3 e5 
+Rejected position: a5 b2 c4 d1 e1 
+Rejected position: a5 b2 c4 d1 e2 
+Position accepted: |============================================> a5 b2 c4 d1 e3 
+Rejected position: a5 b2 c4 d1 e3 
+Rejected position: a5 b2 c4 d1 e4 
+Rejected position: a5 b2 c4 d1 e5 
+Rejected position: a5 b3 c1 d4 e1 
+Position accepted: |============================================> a5 b3 c1 d4 e2 
+Rejected position: a5 b3 c1 d4 e2 
+Rejected position: a5 b3 c1 d4 e3 
+Rejected position: a5 b3 c1 d4 e4 
+Rejected position: a5 b3 c1 d4 e5 
