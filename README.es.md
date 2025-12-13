@@ -23,7 +23,7 @@ Opciones posibles:
 * java -jar queens -t n fichero_salida
 * java -jar queens -t -g n fichero_salida
 
-Consideraciones: El tamaño del tablero debe ser un número entero positivo, mayor que cero y menor o igual a 13, en caso contrario, el programa mostrará un error. Además, el archivo de salida debe tener extensión .txt o la aplicación mostrará un error.
+Consideraciones: El tamaño del tablero debe ser un número entero positivo, mayor que cero y menor o igual a 13, en caso contrario, el programa mostrará un error. Además, el archivo de salida debe tener extensión .txt o la aplicación mostrará un error. Se genera un log que guarda todos los eventos que ocurren en el programa. 
 
 ## Imágenes de muestra
 A continuación, se pueden ver unas imágenes de muestra del programa.
@@ -39,8 +39,6 @@ A continuación, se pueden ver unas imágenes de muestra del programa.
 * Solución gráfica del problema para n = 4.
 
 ![solucion_grafica](Images/g_output_file_n_4_trace2.png)
-
-
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia Pública General GNU v3 (GPLv3).
