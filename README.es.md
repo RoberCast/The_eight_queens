@@ -7,7 +7,7 @@ El problema de las ocho reinas (the eight queens problem) es un problema clásic
 ## Instrucciones
 Para usar el programa, se copia el archivo Queens.jar en una carpeta a elección del usuario. A continuación, se abre el terminal del sistema operativo, se navega hasta la ubicación de la carpeta donde se copió el archivo con extensión .jar y se ejecuta el archivo mediante la siguiente sintáxis:
 
-* java -jar queens [-t] [-g] [-h] n [fichero_salida]
+* `java -jar queens [-t] [-g] [-h] n [fichero_salida]`
 
 Los argumentos son los siguientes:
 * -t: Traza cada paso de manera que describa la aplicación del algoritmo utilizado mostrando las posiciones rechazadas y las válidas. No se trazan las posiciones incompletas.
