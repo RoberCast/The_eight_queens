@@ -36,7 +36,7 @@ A continuación, se pueden ver unas imágenes de muestra del programa.
 
 ![traza](Images/solution_n_4_trace.jpg)
 
-* Solución gráfica del problema para n = 4.
+* Solución gráfica del problema para n = 4. El asterisco representa una casilla negra y la letra "R" a una reina.
 
 ![solucion_grafica](Images/g_output_file_n_4_trace2.png)
 
