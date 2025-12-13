@@ -34,7 +34,11 @@ A continuación, se pueden ver unas imágenes de muestra del programa.
 
 * Traza del problema para n = 4.
 
-|[traza](Images/solution_n_4_trace.jpg)
+![traza](Images/solution_n_4_trace.jpg)
+
+* Solución gráfica del problema para n = 4.
+
+![solucion_grafica](Images/g_output_file_n_4_trace2.png)
 
 
 
