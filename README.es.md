@@ -28,13 +28,14 @@ Consideraciones: El tamaño del tablero debe ser un número entero positivo, may
 ## Imágenes de muestra
 A continuación, se pueden ver unas imágenes de muestra del programa.
 
-* Ayuda del programa.
-![ayuda](Images/display_help.jpg)
-
 * Solución al problema visto en el cmd con n = 5.
+  
 ![muestra de soluciones](Images/Solutions_n_5.jpg)
 
-* 
+* Traza del problema para n = 4.
+
+|[traza](Images/solution_n_4_trace.jpg)
+
 
 
 ## Licencia
