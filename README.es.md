@@ -7,7 +7,7 @@ El problema de las ocho reinas (the eight queens problem) es un problema clásic
 ## Instrucciones
 Para usar el programa, se copia el archivo *Queens.jar* en una carpeta a elección del usuario. A continuación, se abre el terminal del sistema operativo, se navega hasta la ubicación de la carpeta donde se copió el archivo con extensión .jar y se ejecuta el archivo mediante la siguiente sintáxis:
 
-* `java -jar queens [-t] [-g] [-h] n [fichero_salida]`
+* `java -jar queens.jar [-t] [-g] [-h] n [fichero_salida]`
 
 Los argumentos son los siguientes:
 * `-t`: Traza cada paso de manera que describa la aplicación del algoritmo utilizado mostrando las posiciones rechazadas y las válidas. No se trazan las posiciones incompletas.
@@ -15,13 +15,13 @@ Los argumentos son los siguientes:
 * `-h`: Muestra la ayuda y sintaxis del comando de ejecución.
 
 Opciones posibles:
-* `java -jar queens -h`
-* `java -jar queens n`
-* `java -jar queens -t n`
-* `java -jar queens n fichero_salida`
-* `java -jar queens -g n fichero_salida`
-* `java -jar queens -t n fichero_salida`
-* `java -jar queens -t -g n fichero_salida`
+* `java -jar queens.jar -h`
+* `java -jar queens.jar n`
+* `java -jar queens.jar -t n`
+* `java -jar queens.jar n fichero_salida`
+* `java -jar queens.jar -g n fichero_salida`
+* `java -jar queens.jar -t n fichero_salida`
+* `java -jar queens.jar -t -g n fichero_salida`
 
 *Consideraciones*: El tamaño del tablero debe ser un número entero positivo, mayor que cero y menor o igual a 13, en caso contrario, el programa mostrará un error. Además, el archivo de salida debe tener extensión .txt o la aplicación mostrará un error. Se genera un log que guarda todos los eventos que ocurren en el programa. 
 
