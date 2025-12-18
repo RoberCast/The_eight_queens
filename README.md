@@ -6,7 +6,7 @@ The eight queens problem is a classic problem used in the study of algorithms to
 ## Instructions
 To use the program, copy the *Queens.jar* file to a folder of your choice. Then, open the operating system's terminal, navigate to the folder where the .jar file was copied, and run the program using the following syntax:
 
-* `java -jar queens [-t] [-g] [-h] n [output_file]`
+* `java -jar queens.jar [-t] [-g] [-h] n [output_file]`
 
 The arguments are as follows:
 * `-t`: Traces each step in a way that describes the application of the algorithm used, showing the rejected and valid positions. Incomplete positions are not traced.
@@ -14,13 +14,13 @@ The arguments are as follows:
 * `-h`: Displays help and syntax for the execution command.
 
 Possible options:
-* `java -jar queens -h`
-* `java -jar queens n`
-* `java -jar queens -t n`
-* `java -jar queens n output_file`
-* `java -jar queens -g n output_file`
-* `java -jar queens -t n output_file`
-* `java -jar queens -t -g n output_file`
+* `java -jar queens.jar -h`
+* `java -jar queens.jar n`
+* `java -jar queens.jar -t n`
+* `java -jar queens.jar n output_file`
+* `java -jar queens.jar -g n output_file`
+* `java -jar queens.jar -t n output_file`
+* `java -jar queens.jar -t -g n output_file`
 
 *Considerations*: The board size must be a positive integer greater than zero and less than or equal to 13; otherwise, the program will display an error. Additionally, the output file must have a .txt extension, or the application will display an error. A log is generated that saves all the events that occur in the program.
 
