@@ -25,7 +25,7 @@ Possible options:
 *Considerations*: The board size must be a positive integer greater than zero and less than or equal to 13; otherwise, the program will display an error. Additionally, the output file must have a .txt extension, or the application will display an error. A log is generated that saves all the events that occur in the program.
 
 ## Demo
-Below are some sample images of the program.
+Below are some sample images of the program. It was tested on Windows 11 Pro (x64) version 25H2. 
 
 * Solution to the problem seen in the cmd with n = 5.
   
