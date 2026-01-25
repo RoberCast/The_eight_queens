@@ -26,7 +26,7 @@ Opciones posibles:
 *Consideraciones*: El tamaño del tablero debe ser un número entero positivo, mayor que cero y menor o igual a 13, en caso contrario, el programa mostrará un error. Además, el archivo de salida debe tener extensión .txt o la aplicación mostrará un error. Se genera un log que guarda todos los eventos que ocurren en el programa. 
 
 ## Imágenes de muestra
-A continuación, se pueden ver unas imágenes de muestra del programa.
+A continuación, se pueden ver unas imágenes de muestra del programa. Se probó en Windows 11 Pro (x64), versión 25H2.
 
 * Solución al problema visto en el cmd con n = 5.
   
